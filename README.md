@@ -1,3 +1,1 @@
-Here are several projects that I completed to practice.
-
-You can find further project-specific information in the file itself.  
+PowerBank-Project-Document.pdf has all the relevant information.
