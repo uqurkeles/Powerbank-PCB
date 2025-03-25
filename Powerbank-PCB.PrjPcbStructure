@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Battery-Charger.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery-Charger.SchDoc|FileName=PB-Block-Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Battery-Charger.SchDoc|FileName=Power_PD.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery-Charger.SchDoc|FileName=USB_CONNS.SchDoc|SheetNumber=4
